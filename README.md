@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nxtArnav-sharma/Discord-Bot">
-    <img src="https://github.com/nxtArnav-sharma/Discord-Bot/blob/main/bot.png" alt="Pbot-plus" width="306" height="316">
+    <img src="https://github.com/nxtArnav-sharma/Discord-Bot/blob/master/bot.png" alt="Pbot-plus" width="306" height="316">
   </a>
 
   <h3 align="center">Discord-Bot</h3>
