@@ -48,13 +48,7 @@ If you liked this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Giveaways 
 - [x] Easy to use
 - [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/oauth2/authorize?client_id=1236254059363569717)
-## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
-<br />
-<p align="center">
-  <a href="https://github.com/corwindev/discord-bot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
-  </a>
-</p>
+
 
 ## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
 - NodeJs v17+
@@ -96,15 +90,3 @@ node src/index.js
 npm run add-dev YOUR_ID
 ```
 
-[version-shield]: https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=for-the-badge
-[version-url]: https://github.com/brblacky/WaveMusic
-[contributors-shield]: https://img.shields.io/github/contributors/CorwinDev/Discord-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Corwindev/Discord-Bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Corwindev/Discord-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/Corwindev/Discord-Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Corwindev/Discord-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/Corwindev/Discord-Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Corwindev/Discord-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/Corwindev/Discord-Bot/issues
-[license-shield]: https://img.shields.io/github/license/Corwindev/Discord-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE
